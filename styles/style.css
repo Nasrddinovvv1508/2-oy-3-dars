@@ -1,0 +1,52 @@
+.sp-first {
+    color: red;
+}
+.img1 {
+    width: 441px;
+    height: 534.785px;
+    flex-shrink: 0;
+}
+.img2 {
+    width: 220px;
+height: 60px;
+flex-shrink: 0;
+}
+a {
+    text-decoration: none;
+}
+.a3, .a4 {
+    color: black;
+}
+.img3 {
+    width: 182px;
+    height: 132px;
+    flex-shrink: 0;
+}
+.img4 {
+    width: 224px;
+    height: 197px;
+    flex-shrink: 0;
+}
+.img5 {
+    width: 156px;
+height: 131px;
+flex-shrink: 0;
+}
+.icons {
+    width: 60px;
+height: 60px;
+flex-shrink: 0;
+}
+.img6 {
+    width: 399px;
+height: 519px;
+flex-shrink: 0;
+}
+.img7 {
+    width: 350px;
+height: 60px;
+flex-shrink: 0;
+}
+.img8 {
+    width: 100%;
+}
